@@ -1,86 +1,86 @@
 ---
-title: "Quantum Chemistry: Contents"
+title: "量子化学: 目次"
 published: 2025-09-30
-tags: [Quantum Chemistry, Contents]
-category: Quantum Chemistry
-lang: en
+tags: [量子化学, 目次]
+category: 量子化学
+lang: ja
 draft: false
 ---
 
-# Quantum Chemistry
+# 量子化学
 
-The final version of Contents will be TBD
+最終版の目次は未定
 
-1. Historical Background of Quantum Mechanics  
-    1.1. Blackbody Radiation  
-    1.2. Photoelectric Effect  
-    1.3. Atomic Model  
-    1.4. Matter Wave  
-2. The Schrödinger Equation  
-    2.1. The Equation  
-    2.2. Uncertainty Principle <!-- Levine 1.3 -->  
-    2.3. Operators <!-- Levine 3 -->  
-    2.4. Quantum Postulates <!-- Levine 7.8 -->  
-3. Particle in a Box  
-    3.1. Free Particle in One Dimension  
-    3.2. Particle in a One-Dimensional Box  
-    3.3. Particle in a Rectengular Well  
-    3.4. Tunneling  
-4. The Harmonic Oscillator  
-    4.1. The One-Dimensional Harmonic Oscillator  
-    4.2. Vibration of Diatomic Molecules  
-5. Angular Momentum  
-    5.1. Angular Momentum of a One-Particle System  
-    5.2. The Two-Particle Rigid Rotor <!-- Levine 6.4 -->  
-    5.3. Ladder-Operator Method  
-6. The Hydrogen Atom <!-- Levine 6 -->  
-    6.1. The Hydrogen Atom  
-    6.2. The Bound-State Hydrogen-Atom Wave Functions  
-    6.3. Hydrogen-Like Orbitals  
-    6.4. The Zeeman Effect  
-7. Variation Method  
-8. Perturbation Theory  
-9. Electron Spin  
-    9.1. Spin in the Hydrogen Atom  
-    9.2. Spin-Statistics Theorem  
-    9.3. Helium Atom  
-    9.4. Pauli Exclusion Principle  
-    9.5. Slater Determinants  
-10. Electronic Structure of Diatomic Molecules <!-- Levine 13 -->  
-    10.1. Born-Oppenheimer Approximation  
-    10.2. Hydrogen Molecule Ion  
-    10.3. Hydrogen Molecule  
-    10.4. Homonuclear Diatomic Molecules  
-    10.5. Heteronuclear Diatomic Molecules  
-11. Many-Electron Atoms <!-- Levine 11 -->  
-    11.1. Hartree-Fock Self-Consistent-Field Method  
-    11.2. Orbitals and Periodic Table  
-    11.3. Electron Correlation  
-    11.4. Angular Momentum in Many-Electron Atoms  
-    11.5. Atomic Hamiltonian  
-12. Molecular Quantum Mechanics  
-    12.1. Electron Probability Density  
-    12.2. Dipole Moments  
-    12.3. HF for Molecules  
-    12.4. Virial Theorem  
-    12.5. Hellmann-Feynman Theorem  
-    12.6. Electrostatic Theorem  
-13. Molecular Electronic Structure  
-    13.1. Polyatomic Molecules  
-    13.2. Basis Functions  
-    13.3. SCF MO Treatment  
-    13.4. Population Analysis and Bond Orders  
-14. Electron-Correlation Methods  
-    14.1. Correlation Energy  
-    14.2. Configuration Interaction  
-    14.3. Møller-Plesset Perturbation Theory  
-    14.4. Coupled-Cluster Method  
-    14.5. Density Functional Theory  
-    14.6. Quantum Monte Carlo Method  
-    14.7. Chemical Reactions  
-15. Semiempirical Methods  
-    15.1. Hückel MO Method  
-    15.2. Pariser-Parr-Pople Method  
-    15.3. Semiempirical MO and DFT  
-    15.4. Molecular-Mechanics  
-    15.5. Semiempirical Treatment of Solvent Effects  
+1. 量子力学の歴史的背景  
+  1.1. 黒体放射  
+  1.2. 光電効果  
+  1.3. 原子モデル  
+  1.4. 物質波  
+2. シュレーディンガー方程式  
+  2.1. 方程式  
+  2.2. 不確定性原理 <!-- Levine 1.3 -->  
+  2.3. 演算子 <!-- Levine 3 -->  
+  2.4. 量子公理 <!-- Levine 7.8 -->  
+3. 箱中の粒子  
+  3.1. 1次元自由粒子  
+  3.2. 1次元箱中の粒子  
+  3.3. 直方体ポテンシャル井戸中の粒子  
+  3.4. トンネリング  
+4. 調和振動子  
+  4.1. 1次元調和振動子  
+  4.2. 二原子分子の振動  
+5. 角運動量  
+  5.1. 単粒子系の角運動量  
+  5.2. 2粒子剛体回転子 <!-- Levine 6.4 -->  
+  5.3. 階段演算子法  
+6. 水素原子 <!-- Levine 6 -->  
+  6.1. 水素原子  
+  6.2. 結合状態水素原子波動関数  
+  6.3. 水素様軌道  
+  6.4. ゼーマン効果  
+7. 変分法  
+8. 摂動論  
+9. 電子スピン  
+  9.1. 水素原子中のスピン  
+  9.2. スピン統計定理  
+  9.3. ヘリウム原子  
+  9.4. パウリの排他原理  
+  9.5. スレーター行列式  
+10. 二原子分子の電子構造 <!-- Levine 13 -->  
+  10.1. ボルン-オッペンハイマー近似  
+  10.2. 水素分子イオン  
+  10.3. 水素分子  
+  10.4. 同核二原子分子  
+  10.5. 異核二原子分子  
+11. 多電子原子 <!-- Levine 11 -->  
+  11.1. ハートリー-フォック自洽場法(HF-SCF)  
+  11.2. 軌道と周期表  
+  11.3. 電子相関  
+  11.4. 多電子原子における角運動量  
+  11.5. 原子ハミルトニアン  
+12. 分子量子力学  
+  12.1. 電子確率密度  
+  12.2. 双極子モーメント  
+  12.3. 分子のHF法  
+  12.4. ビリアル定理  
+  12.5. ヘルマン-ファインマン定理  
+  12.6. 静電定理  
+13. 分子電子構造  
+  13.1. 多原子分子  
+  13.2. 基底関数  
+  13.3. SCF分子軌道法  
+  13.4. 電子占有解析と結合次数  
+14. 電子相関法  
+  14.1. 相関エネルギー  
+  14.2. 配置相互作用(CI)  
+  14.3. メラー-プレスセット摂動論  
+  14.4. 結合クラスタ法(CC法)  
+  14.5. 密度汎関数理論(DFT)  
+  14.6. 量子モンテカルロ法  
+  14.7. 化学反応
+15. 半経験的手法  
+  15.1. ヒュッケルMO法  
+  15.2. パライザー-パー-ポープル法  
+  15.3. 半経験的MO法とDFT  
+  15.4. 分子力学(MM法)  
+  15.5. 溶媒効果の半経験的処理  

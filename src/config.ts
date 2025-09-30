@@ -8,9 +8,9 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "化學精通納西妲",
-	subtitle: "Chemistry Mastery Nahida",
-	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
+	title: "化学熟知ナヒーダ",
+	subtitle: "ChemMasteryNahida",
+	lang: "ja", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 130, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
 		fixed: true, // Hide the theme color picker for visitors
@@ -56,8 +56,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/nahida.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "ChemMasteryNahida",
-	bio: "化學精通納西妲",
+	name: "化学熟知ナヒーダ",
+	bio: "ChemMasteryNahida",
 	links: [
 		{
 			name: "YouTube",
@@ -74,7 +74,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "WeChat",
 			icon: "fa6-brands:weixin",
-			url: "/images/wechat.png",
+			url: "/ja/images/wechat.png",
 		},
 		{
 			name: "HoYoLAB",

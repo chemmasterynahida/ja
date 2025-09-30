@@ -27,7 +27,7 @@ import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-cop
 // https://astro.build/config
 export default defineConfig({
 	site: "https://chemmasterynahida.github.io/",
-	base: "/",
+	base: "/ja/",
 	trailingSlash: "always",
 	output: 'static',
 	integrations: [
@@ -168,21 +168,6 @@ export default defineConfig({
 					warn(warning);
 				},
 			},
-		},
-	},
-	i18n: {
-		locales: ["en", "zh_CN", "zh_TW", "ja", "ko", "fr"],
-		defaultLocale: "en",
-		fallback: {
-			zh_CN: "en",
-			zh_TW: "en",
-			ja: "en",
-			ko: "en",
-			fr: "en"
-		},
-		routing: {
-			prefixDefaultLocale: true,
-			redirectToDefaultLocale: false
 		},
 	},
 });
