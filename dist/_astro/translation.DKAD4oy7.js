@@ -1,0 +1,1 @@
+import{t as s,i as f,v as t,a as r,k as o,j as e,z as c,b as h,f as i,e as a,c as u,s as g}from"./zh_TW.kAJhy6JH.js";const l=a,z={es:u,en:a,en_us:a,en_gb:a,en_au:a,fr:i,fr_fr:i,zh_cn:h,zh_tw:c,ja:e,ja_jp:e,ko:o,ko_kr:o,th:r,th_th:r,vi:t,vi_vn:t,id:f,tr:s,tr_tr:s};function j(n){return z[n.toLowerCase()]||l}function p(n){const _=g.lang;return j(_)[n]}export{p as i};
