@@ -36,5 +36,5 @@ lang: ja
 > - [GitHub](https://github.com/chemmasterynahida/)
 > - [YouTube](https://www.youtube.com/@chemmasterynahida)
 > - [WeChat](/ja/images/wechat.png)
-> - [HoYoLAB](https://www.hoyolab.com/accountCenter/postList?id=425986572)
+> - [Discord](https://discord.gg/2nUFTgBr73)
 > - [chemmasterynahida@gmail.com](mailto:chemmasterynahida@gmail.com)
