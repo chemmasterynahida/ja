@@ -3,7 +3,7 @@ lang: ja
 ---
 # 紹介
 
-![Nahida](/ja/images/nahida.png)
+![Nahida](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/images/nahida.png)
 
 ## ようこそ
 
@@ -35,6 +35,6 @@ lang: ja
 >
 > - [GitHub](https://github.com/chemmasterynahida/)
 > - [YouTube](https://www.youtube.com/@chemmasterynahida)
-> - [WeChat](/ja/images/wechat.png)
+> - [WeChat](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/images/wechat.png)
 > - [Discord](https://discord.gg/2nUFTgBr73)
 > - [chemmasterynahida@gmail.com](mailto:chemmasterynahida@gmail.com)

@@ -1,8 +1,8 @@
 ---
-title: 1.2. 光電効果と光の性質
+title: "量子化学：1.2. 光電効果と光の性質"
 published: 2025-10-16
 description: 「アインシュタインの理論は、私たちの“光”の理解をどう変えたのでしょう？」
-image: "photoelectric-effect.png"
+image: "https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/photoelectric-effect.png"
 tags: ["量子化学"]
 category: 量子化学
 lang: ja
@@ -71,7 +71,7 @@ draft: False
 その中でも、**アレクサンドル・ストレトフ**と**フィリップ・レナード**は、もっとも精密な実験を行ったことで知られています。  
 彼らは定量的な測定を進め、レナードは紫外線が**気体分子を電離**させ、電子を解き放つことまで見いだしました。  
 
-![Lenard's experiment](lenard-experiment.png "レナードの実験装置")
+![Lenard's experiment](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/lenard-experiment.png "Lenard's experiment")  
 
 これが、レナードの装置です。  
 彼は光がどのようにして金属から電子を飛び出させるのかを、丁寧に観察しました。  
@@ -80,7 +80,7 @@ draft: False
 もし金属から電子が放出されるなら、負の電圧をかけて電子を押し返してみる――見えない小さな“壁”を作るようなものですね。  
 その壁を乗り越えるためには、電子にそれだけ強いエネルギーが必要になります。  
 
-![Lenard's observation](lenard-stop-potential.jpg "レナードの観測結果")
+![Lenard's observation](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/lenard-stop-potential.jpg "Lenard's observation")  
 
 そして実験を重ねるうちに、レナードは驚くべき事実を発見しました。  
 **光の周波数**が高いほど、**阻止電位**も大きくなるのです。  
@@ -96,7 +96,7 @@ draft: False
 光は**電磁波**としてふるまいます。  
 では、その考えが正しいなら――どうなるでしょう？  
 
-![Double slit](Double-slit.png "二重スリット実験")
+![Double slit](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/Double-slit.png "Double-slit experiment")  
 
 光が金属に当たると、その波が少しずつ電子に**エネルギーを与える**はずです。  
 電子が十分なエネルギーを得れば、表面から抜け出せる……  
@@ -132,7 +132,7 @@ draft: False
 光のひと粒――今では**光子（Photon）**と呼ばれます――が金属中の電子にぶつかり、  
 エネルギーを与えることができるわけです。  
 
-![Photoelectric effect](photoelectric-effect.png "光電効果")
+![Photoelectric effect](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/photoelectric-effect.png "Photoelectric effect")  
 
 金属中では、電子は原子の引力によってしっかりと束縛されています。  
 電子を解き放つには、入射する光子が束縛を打ち破るだけのエネルギーを与えなければなりません。  
@@ -165,7 +165,7 @@ $E = e_{0}\cdot V_s$
 結果は見事に直線関係！  
 その直線の傾きは、まさしくプランク定数 $h$ に一致しました。  
 
-![Millikan's experiment](kinetic-energy.png "ミリカンの実験結果")
+![Millikan's experiment](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/kinetic-energy.png "Millikan's experiment")  
 
 一つの式、一つのアイデア――突然、光はもはや単なる波ではなくなったのです。  
 光は**波であり粒子でもある**――二つの姿で踊るように存在していました。  

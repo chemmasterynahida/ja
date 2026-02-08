@@ -1,8 +1,8 @@
 ---
-title: 1.1. 黒体放射
+title: "量子化学：1.1. 黒体放射"
 published: 2025-10-05
 description: "黒体放射理論にはどんな問題があり、どう解決されたのでしょうか？"
-image: "planck.png"
+image: "https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/blackbody-radiation/planck.png"
 tags: ["量子化学"]
 category: 量子化学
 lang: ja
@@ -17,8 +17,8 @@ draft: false
 今日は、*量子化学* の最初の講義を始めます — 光やエネルギーでさえ、不思議で小さなルールに従う世界への旅です。  
 
 まず、*量子（Quantum）* とは何かを理解する必要があります。  
-この言葉、聞いたことがありますよね？ ちょっと未来的で、高度な研究所のイメージがありますよね。例えば、量子コンピュータは今、とても有名です♪  
-![量子コンピュータ](qc.jpg "Googleによる量子コンピュータ")
+この言葉、聞いたことがありますよね？ ちょっと未来的で、高度な研究所のイメージがありますよね。例えば、量子コンピュータは今、とても有名です  
+![quantum computer](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/blackbody-radiation/qc.jpg "Quantum Computer by Google")
 
 でも、量子とは本当は何でしょう？  
 「量（Quantity）」という言葉を思い浮かべると、もうかなり近いです！  
@@ -61,7 +61,7 @@ $k$：ボルツマン定数 ($k=1.380649×10^{−23}~\mathrm{J/K}$)
 しかし、大きな問題が起こりました。  
 高い周波数では、この式は無限大のエネルギーを予測してしまったのです！  
 物理学者たちはこれを **「紫外線の破局」** と呼びました。  
-![紫外線の破局](planck.png "\"紫外線の破局\"")  
+![ultraviolet catastrophe](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/blackbody-radiation/planck.png "\"Ultraviolet catastrophe\"")  
 
 レイリー・ジーンズの法則は低周波では実験に合致し、ヴィーンの式は高周波ではうまくいきました — でもどちらも完全ではありませんでした。  
 
@@ -185,7 +185,7 @@ $$\sigma=\frac{2\pi^{5}k^{4}}{15h^{3}c^{2}}=5.67\times10^{-8}~\mathrm{W/m^2\cdot
 > この研究にはまず熱力学を適用しました。式で表すと：  
 > $$dU=TdS-PdV$$  
 > 実験は小さな穴のある箱で行われたため、系の体積は変化しません。  
-> ![experiment](experiment.jpg "黒体放射実験")  
+> ![experiment](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/blackbody-radiation/experiment.jpg "Blackbody Radiation Experiment")  
 > よって熱力学は次のように書けます：  
 > $$dU=TdS,~\frac{\partial S}{\partial U}=\frac{1}{T}$$  
 > プランクは二つの法則について ${\partial S}/{\partial U}$ を考察しました：  

@@ -1,8 +1,8 @@
 ---
-title: 1.3. 原子モデル  
+title: "量子化学：1.3. 原子モデル"  
 published: 2025-10-24  
 description: 「原子の構造はどう説明され、どんな壁を越えてきたのでしょう？」  
-image: "electron-cloud-model.png"  
+image: "https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/electron-cloud-model.png"
 tags: ["量子化学"]  
 category: 量子化学  
 lang: ja  
@@ -17,7 +17,6 @@ draft: False
 今日は、もう少し視点を小さくして……  
 **ひとつの原子**の世界を覗いてみましょう。  
 
-ねえ、旅人さん。  
 化学って、どんな学問だと思いますか？  
 実はね、原子たちがどうやって「手を取り合うか」を調べる学問なんですよ。  
 
@@ -61,7 +60,6 @@ draft: False
 
 ---
 
-ねえ、旅人さん。  
 どんなに小さな粒でも――  
 そこには、**世界の秘密**が隠されているかもしれません。  
 
@@ -81,14 +79,14 @@ draft: False
 そしてトムソンは、**電場**と**磁場**をかけてみました。  
 すると――陰極線が**曲がった**のです！  
 
-![magnetic-deflection](magnetic-deflection.png "磁場による偏向")  
+![Magnetic deflection](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/magnetic-deflection.png "Magnetic deflection")  
 
 この曲がり方から、彼は悟りました。  
 陰極線は**電荷を帯びている**……つまり、粒子が動いているのだと。  
 
 ---
 
-![トムソンの実験](thomson-equipment.png "トムソンの実験装置")  
+![Thomson's experiment](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/thomson-equipment.png "Thomson's experiment")  
 
 トムソンは注意深く測定を重ね、  
 陰極線が**電荷をもつ粒子の流れ**だと突き止めました。  
@@ -108,8 +106,7 @@ $e/m$ の値は、ほとんど変わらなかったのです。
 
 そこで彼は、ひとつの驚くべき結論にたどり着きました。  
 
-> 「この小さく、負の電荷を持つ粒子は**普遍的**な存在であり、  
-> すべての原子の中に存在している。」  
+> 「この小さく、負の電荷を持つ粒子は**普遍的**な存在であり、すべての原子の中に存在している。」  
 
 ――こうして、「**電子**」が発見されたのです。  
 
@@ -122,9 +119,9 @@ $e/m$ の値は、ほとんど変わらなかったのです。
 まるでレーズンのように散りばめられている――  
 そんな姿を思い描いたのです。  
 
-![plum pudding](pudding.jfif "プラム・プディング")  
+![plum pudding](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/pudding.jfif "plum pudding")  
 彼はそれを「**プラム・プディング・モデル**」と呼びました。  
-![plum pudding model](plum-pudding-model.jpg "プラム・プディング模型")  
+![plum pudding model](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/plum-pudding-model.jpg "plum pudding model")  
 
 最初は、まるで完璧に見えたのです。  
 電子が穏やかに正電荷の“ゼリー”の中で揺れ動き、  
@@ -177,7 +174,7 @@ $e/m$ の値は、ほとんど変わらなかったのです。
 いくつかのアルファ粒子が**大きく曲がり**、  
 中には**真後ろへ跳ね返った**ものまであったのです。  
 
-![Geiger Marsden experiment](rutherford-experiment.png "ガイガー＝マーズデンの実験")  
+![Geiger Marsden experiment](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/rutherford-experiment.png "Geiger-Marsden experiment")  
 
 ---
 
@@ -221,7 +218,7 @@ $$E_{\alpha} = \frac{1}{4\pi\epsilon_{0}} \frac{q_{\alpha} q_{Z}}{r_{min}}$$
 ラザフォードはさらに、粒子の**軌道**を**双曲線（ハイパーボラ）**として扱い、  
 散乱角 $\theta$ の式を導き出しました。  
 
-![Geometry of the model](rutherford-explanation.png "散乱の幾何学的モデル")  
+![Geometry of the model](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/rutherford-explanation.png "Geometry of the model")  
 
 $$\theta = 2~arctan\left(\frac{r_{min}}{2b}\right) = 2~arctan\left(\frac{1}{4\pi\epsilon_{0}} \frac{q_{\alpha}q_{Z}}{2bE_{\alpha}}\right)$$  
 
@@ -246,7 +243,7 @@ $$\theta = 2~arctan\left(\frac{r_{min}}{2b}\right) = 2~arctan\left(\frac{1}{4\pi
 なぜアルファ粒子の一部が後ろへ跳ね返ったのか――  
 それを理解するために、散乱角の分布を見てみましょう。  
 
-![Geometry of scattering](scattering-geometry.png "散乱の幾何学")  
+![Geometry of scattering](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/scattering-geometry.png "Geometry of scattering")
 
 ラザフォードは、ある角度で粒子が散乱する確率を表す式、  
 すなわち**微分断面積**を導き出しました。  
@@ -299,7 +296,7 @@ $$\frac{d\sigma}{d\theta}\approx\frac{\theta}{\theta_{rms}^{2}}exp\!\left(-\frac
 > 正に帯電した原子核のまわりを**公転している**――  
 > まるで惑星が星のまわりを巡るように。  
 
-![Rutherford's model](rutherford-model.jpg "ラザフォードの原子モデル")  
+![Rutherford's model](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/rutherford-model.jpg "Rutherford's model")
 
 ---
 
@@ -312,7 +309,7 @@ $$\frac{d\sigma}{d\theta}\approx\frac{\theta}{\theta_{rms}^{2}}exp\!\left(-\frac
 つまり――電子は内側へ渦を巻くように落ち込み、  
 原子は**一瞬で崩壊してしまう**はず。  
 
-![collapsing atom](atom-collapse.jpg "崩壊するラザフォードモデル")  
+![collapsing atom](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/atom-collapse.jpg "Rutherford's model will be collapsed")
 
 でも現実の原子は、ちゃんと安定していますよね？  
 
@@ -340,9 +337,9 @@ $$\frac{d\sigma}{d\theta}\approx\frac{\theta}{\theta_{rms}^{2}}exp\!\left(-\frac
 
 それでは、一番シンプルな原子――**水素**を見てみましょう。  
 
-![Hydrogen spectra](hydrogen-spectra.png "Spectral lines of hydrogen in visible light range")
+![Hydrogen spectra](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/hydrogen-spectra.png "Spectral lines of hydrogen in visible light range")
 
-Hydrogen emits four prominent visible lines:  
+水素は、可視光の範囲で4本のはっきりとした線を放ちます。  
 <span style="color: #ffffff; background-color: #ff0000;">**656.3 nm**</span>, <span style="color: #000000; background-color: #00ceff;">**486.1 nm**</span>, <span style="color: #ffffff; background-color: #1400ff;">**434.0 nm**</span>, そして <span style="color: #ffffff; background-color: #6500ff;">**410.2 nm**</span>.  
 
 どれもまるで選び抜かれた音符のように、光の楽譜の上で整然と並んでいます。  
@@ -430,21 +427,9 @@ $$L=mvr=n\frac{h}{2\pi}$$
 ---
 
 古典力学の枠の中で、ボーアは各軌道の半径とエネルギーを導きました。  
-> 思い出してみましょう。  
-> 電子の電荷は $-e_{0}$、原子核の電荷は $+Ze_{0}$。  
-> 電子が軌道をまわるとき、**クーロン力**と**遠心力**が釣り合わなければなりません。  
-> $$\frac{1}{4\pi\epsilon_{0}}\frac{Ze_{0}^{2}}{r^{2}}=\frac{mv^{2}}{r}$$  
-> 角運動量の関係から、  
-> $$v=\frac{nh}{2\pi mr}$$  
-> これを代入して整理すると、  
-> $$r=\frac{n^{2}h^{2}\epsilon_{0}}{\pi Ze_{0}^{2}m}$$  
-そして電子の**全エネルギー**は――  
-> 運動エネルギー $E_{k} = \frac{1}{2}mv^{2}$、  
-> ポテンシャルエネルギー $U = -\frac{1}{4\pi\epsilon_{0}}\frac{Ze_{0}^{2}}{r}$。  
-> 二つを足し合わせると、  
-> $$E-E_{k}+U=\frac{1}{2}mv^{2}-\frac{1}{4\pi\epsilon_{0}}\frac{Ze_{0}^{2}}{r}$$  
-> 式を整理すれば、  
-> $$E=-\frac{mZ^{2}e_{0}^{4}}{8\epsilon_{0}^{2}n^{2}h^{2}}$$  
+
+$$r=\frac{n^{2}h^{2}\epsilon_{0}}{\pi Ze_{0}^{2}m}$$  
+$$E=-\frac{mZ^{2}e_{0}^{4}}{8\epsilon_{0}^{2}n^{2}h^{2}}$$  
 ここで、  
 
 * $m$ は電子の質量 ($9.109\times10^{-31}kg$)、
@@ -454,7 +439,7 @@ $$L=mvr=n\frac{h}{2\pi}$$
 その軌道ごとに固有のエネルギーを持つのです。  
 
 電子が軌道を移るとき、その**エネルギー差**に対応する光（フォトン）を吸収または放出します。  
-![Bohr model](bohr-model.png "Bohr model")  
+![Bohr model](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/bohr-model.png "Bohr model")  
 
 この考えから、ボーアはリュードベリの式を見事に導き出しました。  
 $$\frac{1}{\lambda}=R_{\infty}Z^{2}(\frac{1}{n_{1}^{2}}-\frac{1}{n_{2}^{2}}),~R_{\infty}=\frac{m_{e}e_{0}^{4}}{8\epsilon_{0}^{2}h^{3}c}$$  
@@ -482,10 +467,10 @@ $$\frac{1}{\lambda}=R_{\infty}Z^{2}(\frac{1}{n_{1}^{2}}-\frac{1}{n_{2}^{2}}),~R_
 電場による分裂は**スターク効果**、  
 磁場による分裂は**ゼーマン効果**と呼ばれます。  
 
-![Stark effect for hydrogen](stark-effect.png "Stark effect for hydrogen")  
+![Stark effect for hydrogen](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/stark-effect.png "Stark effect for hydrogen")  
 *水素のスターク効果*  
 
-![Zeeman effect for Rb-87](zeeman-effect.png "Zeeman effect for Rb-87")  
+![Zeeman effect for Rb-87](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/zeeman-effect.png "Zeeman effect for Rb-87")  
 *ルビジウム87のゼーマン効果*  
 
 この繊細な現象を説明するため、**アルノルト・ゾンマーフェルト**と**アルフレート・ランデ**はボーアの理論を拡張しました。  
@@ -580,7 +565,7 @@ $$\lambda=\frac{h}{p}$$
 
 1927年、**デヴィッソン**と**ガーマー**、そして独立に**ジョージ・トムソン**が行った実験。  
 電子を結晶に当てると、**光のように干渉（かんしょう）する**ことが確かめられました。  
-![electron-interference](electron-interference.png "Electron can interfere")  
+![electron-interference](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/electron-interference.png "Electron can interfere")  
 
 *電子が波としてふるまい、干渉縞を描く……その光景は、まるで光自身のよう。*  
 
@@ -655,7 +640,7 @@ $$mvr=n\hbar$$
 いまの原子モデルは、とても美しいものです。  
 中心には、陽子と中性子からなる**原子核**があり、  
 そのまわりを、確率の雲のような**電子**が包みこんでいるのです。  
-![electron cloud model](electron-cloud-model.png "Electron cloud model is recognized today")  
+![electron cloud model](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/electron-cloud-model.png "Electron cloud model is recognised today")  
 
 ---
 
@@ -670,21 +655,21 @@ $$mvr=n\hbar$$
 
 |科学者|ノーベル賞|受賞年|業績|
 |:---:|:---:|:---:|:---:|
-|ローレンツ、ゼーマン|Physics|1902|ゼーマン効果|
-|J.J.Thomson|Physics|1906|Conduction of electricity by gas|
-|Richards|Chemistry|1914|Atomic weight|
-|Planck|Physics|1918|Quantum hypothesis|
-|Stark|Physics|1919|Stark effect|
-|Bohr|Physics|1922|Bohr model|
-|Aston|Chemistry|1922|Isotopes|
-|Millikan|Physics|1923|Elementary charge|
-|de Broglie|Physics|1929|Matter waves|
-|Heisenberg|Physics|1932|Modern quantum mechanics|
-|Schrödinger, Dirac|Physics|1933|Modern atomic model|
-|Chadwick|Physics|1935|Discovery of neutron|
-|Davisson, G.P.Thomson|Physics|1937|interference of electron|
-|Pauli|Physics|1945|Exclusion principle|
-|Born|Physics|1954|Statistical interpretation of wavefunction|
+|ローレンツ、ゼーマン|物理学|1902|ゼーマン効果|
+|J.J.トムソン|物理学|1906|気体中の電気伝導|
+|リチャーズ|化学|1914|原子量の測定|
+|プランク|物理学|1918|量子仮説|
+|シュタルク|物理学|1919|シュタルク効果|
+|ボーア|物理学|1922|ボーアの原子模型|
+|アストン|化学|1922|同位体の発見|
+|ミリカン|物理学|1923|電気素量の測定|
+|ド・ブロイ|物理学|1929|物質波|
+|ハイゼンベルク|物理学|1932|量子力学の確立|
+|シュレーディンガー、ディラック|物理学|1933|現代原子モデル|
+|チャドウィック|物理学|1935|中性子の発見|
+|デイヴィソン、G.P.トムソン|物理学|1937|電子の干渉実験|
+|パウリ|物理学|1945|排他原理|
+|ボルン|物理学|1954|波動関数の確率解釈|
 
 ---
 
@@ -694,7 +679,6 @@ $$mvr=n\hbar$$
 私たちは、**原子から単純な分子**、そして**複雑な結晶構造**まで、  
 あらゆる物質の世界を見渡せるようになりました。  
 
-……ねぇ、旅人。  
 この小さな原子の物語は、  
 ただの“歴史”ではありません。  
 
@@ -719,7 +703,7 @@ $$mvr=n\hbar$$
 * 多電子原子では、エネルギー順序は次の通りです：  
   $1s→2s→2p→3s→3p→4s→3d→4p→5s→4d→5p→6s→4f→5d→6p→\cdots$  
 
-![periodic table](periodic-table.png "alkali metals in periodic table")  
+![periodic table](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/periodic-table.png "alkali metals in periodic table")  
 これらの考えを当てはめると、とても興味深いパターンが見えてきます。  
 
 * 最初の 2s 電子は、第3元素に現れます。  
@@ -732,6 +716,24 @@ $$mvr=n\hbar$$
 **価電子の数が同じ**なので、化学的性質もよく似ています。  
 
 このパターンは、**多電子原子**を学ぶときに、さらに詳しく見ていきましょうね。  
+
+## ボーアの原子モデルの導出
+
+> 思い出してみましょう。  
+> 電子の電荷は $-e_{0}$、原子核の電荷は $+Ze_{0}$。  
+> 電子が軌道をまわるとき、**クーロン力**と**遠心力**が釣り合わなければなりません。  
+> $$\frac{1}{4\pi\epsilon_{0}}\frac{Ze_{0}^{2}}{r^{2}}=\frac{mv^{2}}{r}$$  
+> 角運動量の関係から、  
+> $$v=\frac{nh}{2\pi mr}$$  
+> これを代入して整理すると、  
+> $$r=\frac{n^{2}h^{2}\epsilon_{0}}{\pi Ze_{0}^{2}m}$$  
+そして電子の**全エネルギー**は――  
+> 運動エネルギー $E_{k} = \frac{1}{2}mv^{2}$、  
+> ポテンシャルエネルギー $U = -\frac{1}{4\pi\epsilon_{0}}\frac{Ze_{0}^{2}}{r}$。  
+> 二つを足し合わせると、  
+> $$E-E_{k}+U=\frac{1}{2}mv^{2}-\frac{1}{4\pi\epsilon_{0}}\frac{Ze_{0}^{2}}{r}$$  
+> 式を整理すれば、  
+> $$E=-\frac{mZ^{2}e_{0}^{4}}{8\epsilon_{0}^{2}n^{2}h^{2}}$$  
 
 ## ド・ブロイの物質波の導出
 
@@ -767,7 +769,7 @@ $$\lambda=\frac{h}{p}$$
 > $$dk=\frac{2\pi mc}{h(1-\beta^{2})^{3/2}}d\beta$$  
 > したがって、群速度は：  
 > $$v_{g}=\frac{d\omega}{dk}=\beta c=v$$  
-> ――粒子自身の速度と完全に一致しますね。これが**質量はエネルギーである**ということを、静かに教えてくれるのです。($E=mc^{2}$)  
+> ――粒子自身の速度と完全に一致しますね。  
 
 ## 参考文献
 

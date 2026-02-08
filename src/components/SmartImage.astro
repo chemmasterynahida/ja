@@ -1,0 +1,19 @@
+---
+const { src, alt = "", className = "" } = Astro.props;
+
+const cdns = [
+  `https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/${src}`,
+  `https://cdn.jsdelivr.net/gh/chemmasterynahida/assets/${src}`,
+  `/assets/${src}`
+];
+---
+
+<img
+  src={cdns[0]}
+  alt={alt}
+  class={className}
+  loading="lazy"
+  decoding="async"
+  onerror={`this.onerror=null;this.src='${cdns[1]}';`}
+  onload={`this.onerror=function(){this.src='${cdns[2]}';}`}
+/>
